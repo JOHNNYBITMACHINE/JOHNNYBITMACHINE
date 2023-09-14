@@ -1,4 +1,4 @@
-![MasterHead](https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm JOHNNY BIT</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="center" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">Hi 👋, I'm JOHNNY BIT</h1>
