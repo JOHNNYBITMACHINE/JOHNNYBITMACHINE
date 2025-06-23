@@ -3,11 +3,16 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="center" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">Hi 👋, I'm JOHNNY BIT</h1>
 
-- 🌱 I’m currently learning **Deeplearning**
 
 - 💬 Ask me about **python, Mysql, Machine learning , Power BI, Advance Excel**
 
 - 📫 How to reach me **johnnybit9456ma@gmail.com**
+
+- <p>Enthusiastic and results-driven Data Analyst with a strong foundation in data analysis, machine learning, and generative AI systems. Coming from an arts background, I bring a unique perspective to problem-solving, enhanced by hands-on technical proficiency in Excel, Python, SQL, Power BI, and LangChain, gained through intensive certification programs, internships, and freelance projects.
+
+Experienced in leveraging Excel for advanced data manipulation, pivot tables, complex formulas, and automated reporting. Skilled in building insightful, interactive dashboards in Power BI and performing in-depth data exploration and visualization. Adept at using Python and SQL for data cleaning, analysis, and developing data-driven solutions that inform business strategy.
+
+Successfully delivered AI-powered solutions and intelligent agent-based systems using modern AI tools, demonstrating the ability to merge analytical thinking with emerging technologies. Passionate about turning raw data into actionable insights to drive efficiency, growth, and innovation.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
