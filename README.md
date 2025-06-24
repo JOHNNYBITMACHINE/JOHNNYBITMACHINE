@@ -4,7 +4,7 @@
 <img align="center" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">Hi 👋, I'm JOHNNY BIT</h1>
 
 
-- 💬 Ask me about **python, Mysql, Machine learning , Power BI, Advance Excel**
+
 
 - 📫 How to reach me **johnnybit9456ma@gmail.com**
 
